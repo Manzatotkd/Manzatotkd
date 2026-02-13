@@ -2,6 +2,43 @@
 
  **`Estudante de TI`**
 
- Me chamo Gabriel Manzato Godoi, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio no colégio de Aplicação da UEL, com o curso de Desenvolvimento de Sistemas. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar. Sou um amante da tecnologia e busco crescer na Área, onde posso aplicar meus conhecimentos, e também partilho projetos meus no meu perfil do Linkedin [Gabriel Manzato Godoi](https://www.linkedin.com/in/gabriel-manzato-godoi-068336335/).
+Sou estudante de Análise e Desenvolvimento de Sistemas, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio técnico em Desenvolvimento de Sistemas no Colégio de Aplicação da [UEL](https://portal.uel.br/) e atualmente curso ADS na [UniCesumar](https://www.unicesumar.edu.br/).
 
-   
+Tenho grande interesse em tecnologia, desenvolvimento de software e resolução de problemas, sempre buscando evoluir por meio de projetos práticos e estudos contínuos. Aqui no GitHub, compartilho projetos voltados ao aprendizado e à aplicação real dos meus conhecimentos.
+
+🎮 Sou apaixonado por jogos, o que despertou meu interesse por lógica, sistemas e programação — inclusive mantenho um canal no YouTube focado em games, onde desenvolvi habilidades como consistência, criatividade e comunicação. 
+
+🔗 Também compartilho meus projetos e trajetória profissional no LinkedIn:
+[Gabriel Manzato Godoi](https://www.linkedin.com/in/gabriel-manzato-godoi-068336335/)
+
+🚀 Atualmente busco oportunidades para aprender, crescer na área de tecnologia e aplicar meus conhecimentos em projetos reais, especialmente em ambientes que valorizem evolução e prática.
+<p align="left">
+    <a href="https://www.youtube.com/@im_gabriel369?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8fWu6GP8imnYXmLUQXZivw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@im_gabriel369">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8fWu6GP8imnYXmLUQXZivw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/GabrielManzato?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/GabrielManzato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/GabrielManzato?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielManzato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
