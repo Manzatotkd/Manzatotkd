@@ -13,19 +13,6 @@ Tenho grande interesse em tecnologia, desenvolvimento de software e resolução 
 
 🚀 Atualmente busco oportunidades para aprender, crescer na área de tecnologia e aplicar meus conhecimentos em projetos reais, especialmente em ambientes que valorizem evolução e prática.
 <p align="left">
-    <a href="https://www.youtube.com/@im_gabriel369?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC8fWu6GP8imnYXmLUQXZivw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@im_gabriel369">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8fWu6GP8imnYXmLUQXZivw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
     </a> 
     <a href="https://github.com/GabrielManzato?tab=repositories&sort=stargazers">
         <img 
